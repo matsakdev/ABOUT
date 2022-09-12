@@ -1,22 +1,18 @@
-
-<p align="center">
-  <img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="150"/>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/misha-makarevych/" target="_blank">
-    <img src="https://runday.org/wp-content/uploads/2017/08/LinkedIn-Logo.png" alt="LinkedIn" width="150">
-  </a>
-</p>
-
 <h3 align="center">
   WHA-HA-HELLLLLLLLLLLo!! Welcome to my dungeon.
-  <img src="https://media.istockphoto.com/photos/scary-endless-medieval-catacombs-with-torches-mystical-nightmare-3d-picture-id1308121289?k=20&m=1308121289&s=612x612&w=0&h=tk08t3EHYp-kT6eNUDTYKmLA30l0LhiT0rJOHMs5OG4=" width="100">
 </h3>
+
+<p align="center">
+   <img src="https://media.istockphoto.com/photos/scary-endless-medieval-catacombs-with-torches-mystical-nightmare-3d-picture-id1308121289?k=20&m=1308121289&s=612x612&w=0&h=tk08t3EHYp-kT6eNUDTYKmLA30l0LhiT0rJOHMs5OG4=" width="400">
+</p>
 
 <h3 align="center">
   Here you can get lost. Be carefull...
-  <img src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif" width="100">
 </h3>
+
+<p align="center">
+ <img src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif" width="300">
+</p>
 
 
 ### 👨‍💻: &nbsp;About Me :
@@ -28,9 +24,18 @@ Student of NURE university (Kharkiv), where learn a lot of different technologie
 - 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
 - 🌱 Learning different technologies.
 - 🎧 In my free time I listen and write the music. Ableton is my digital love💙.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://runday.org/wp-content/uploads/2017/08/LinkedIn-Logo.png)](https://www.linkedin.com/in/matsakdev/)
+- 📫 How to reach me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/matsakdev/" target="_blank">
+    <img src="https://runday.org/wp-content/uploads/2017/08/LinkedIn-Logo.png" alt="LinkedIn" width="100">
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="150"/>
+</p>
 
 ### 🛠 &nbsp;Languages and Tools :
 
