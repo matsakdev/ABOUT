@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/misha-makarevych/" target="_blank">
-    <img src="https://runday.org/wp-content/uploads/2017/08/LinkedIn-Logo.png" alt="LinkedIn">
+    <img src="https://runday.org/wp-content/uploads/2017/08/LinkedIn-Logo.png" alt="LinkedIn" width="150">
   </a>
 </p>
 
